@@ -10,4 +10,5 @@
 
 # Example
 > The red background is just so you can see the border, the actual background will be transparent.
+
 ![example](example.gif)
